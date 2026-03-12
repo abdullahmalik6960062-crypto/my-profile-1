@@ -1,4 +1,4 @@
 git init
 git add .
-git commit -m "add image"
+git commit -m "add livelink"
 git push -u origin main
